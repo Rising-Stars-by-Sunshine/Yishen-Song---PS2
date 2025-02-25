@@ -4,13 +4,9 @@
 This repository contains code for analyzing the **UCI Adult Income dataset** using machine learning and causal inference techniques. The goal is to explore income prediction, fairness in AI, and the impact of education levels on income.
 
 ## 2. Files Included
-- `data_preprocessing.py`: Loads and cleans the dataset.
-- `nlp_analysis.py`: Implements text-based analysis on categorical attributes.
-- `income_prediction.py`: Trains and evaluates supervised models.
-- `rd_analysis.py`: Performs Regression Discontinuity (RD) design for causal inference.
-- `visualization.py`: Generates plots and insights from the dataset.
-- `requirements.txt`: Lists required libraries.
-
+```bash
+python ps2.ipynb
+```
 ## 3. Prerequisites
 ### Required Libraries
 - Python 3.9+
@@ -25,15 +21,6 @@ pip install -r requirements.txt
 ```
 
 ## 4. Usage Instructions
-### 1. Load and Preprocess Data
-
-### 2. Run NLP Analysis
-
-### 3. Train and Evaluate Predictive Models
-
-### 4. Perform Causal Inference Analysis
-
-### 5. Generate Visualizations
 ```bash
 python ps2.ipynb
 ```
