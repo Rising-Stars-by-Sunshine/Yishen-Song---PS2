@@ -26,24 +26,16 @@ pip install -r requirements.txt
 
 ## 4. Usage Instructions
 ### 1. Load and Preprocess Data
-```bash
-python data_preprocessing.py
-```
+
 ### 2. Run NLP Analysis
-```bash
-python nlp_analysis.py
-```
+
 ### 3. Train and Evaluate Predictive Models
-```bash
-python income_prediction.py
-```
+
 ### 4. Perform Causal Inference Analysis
-```bash
-python rd_analysis.py
-```
+
 ### 5. Generate Visualizations
 ```bash
-python visualization.py
+python ps2.ipynb
 ```
 
 ## 5. Expected Outputs
